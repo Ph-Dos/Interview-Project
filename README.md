@@ -9,3 +9,4 @@ Research NeRF analysis methods and write an overview of how it works in no longe
 Write an overview of an aspect you found most interesting in no longer than 1 paragraph.
 
 ...Type here...
+sadjfajfldafsl
